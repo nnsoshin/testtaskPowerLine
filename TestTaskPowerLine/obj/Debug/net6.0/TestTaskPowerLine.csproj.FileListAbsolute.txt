@@ -1,0 +1,15 @@
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\TestTaskPowerLine.exe
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\TestTaskPowerLine.deps.json
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\TestTaskPowerLine.runtimeconfig.json
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\TestTaskPowerLine.dll
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\ref\TestTaskPowerLine.dll
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\bin\Debug\net6.0\TestTaskPowerLine.pdb
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.csproj.AssemblyReference.cache
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.AssemblyInfoInputs.cache
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.AssemblyInfo.cs
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.csproj.CoreCompileInputs.cache
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.dll
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\ref\TestTaskPowerLine.dll
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.pdb
+D:\__EDUCATION\TestTaskPowerLine\TestTaskPowerLine\obj\Debug\net6.0\TestTaskPowerLine.genruntimeconfig.cache

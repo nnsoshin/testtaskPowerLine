@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskPowerLine", "TestTaskPowerLine\TestTaskPowerLine.csproj", "{4F008D7B-F00E-499A-91C8-B6FE665A0AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F008D7B-F00E-499A-91C8-B6FE665A0AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F008D7B-F00E-499A-91C8-B6FE665A0AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F008D7B-F00E-499A-91C8-B6FE665A0AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F008D7B-F00E-499A-91C8-B6FE665A0AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B556FDA-1A04-4169-AB40-0A475BB3A75F}
+	EndGlobalSection
+EndGlobal
